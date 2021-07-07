@@ -69,3 +69,7 @@ pass = 12345678
 ### Login sebagai user yang menyetujui
 email = hamim@gmail.com
 pass = 12345678
+
+### Rancangan Database
+
+ ![Image](https://github.com/hamimNizar/pesanKendaraan/dbtessekawan.jpg)
