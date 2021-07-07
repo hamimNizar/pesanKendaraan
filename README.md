@@ -72,4 +72,4 @@ pass = 12345678
 
 ### Rancangan Database
 
- ![Image](https://github.com/hamimNizar/pesanKendaraan/dbtessekawan.jpg)
+ ![Image](https://github.com/hamimNizar/pesanKendaraan/blob/main/dbtessekawan.jpg)
